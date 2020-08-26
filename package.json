@@ -72,7 +72,7 @@
     "http-codes": "^1.0.0",
     "jsonwebtoken": "^8.5.1",
     "jszip": "^3.5.0",
-    "lunr": "^2.3.9",
+    "lunr": "^1.0.0",
     "marked": "^1.1.1",
     "metaphor": "^3.8.3",
     "mime": "^2.4.6",
