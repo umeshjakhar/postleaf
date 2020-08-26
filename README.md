@@ -21,7 +21,8 @@ Detailed instructions for installing, updating, and creating themes can be found
 
 This guide assumes you're installing Postleaf locally for development purposes. Please make sure the following dependencies are installed on your system before continuing:
 
-- Node 7 (lower versions have not been tested and are not supported)
+- Node 14 (lower versions have not been tested and are not supported)
+- yarn
 - npm
 - Git
 - SQLite 3
